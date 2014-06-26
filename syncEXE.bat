@@ -1,0 +1,1 @@
+robocopy "Z:\exe" "\\YPSYK-NB\bom$\exe" /mir /xo

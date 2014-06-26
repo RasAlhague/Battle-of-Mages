@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\SkillLevelArchiveScript.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\NetworkScript.js" Line="399" Column="27" />
+      <File FileName="Assets\Standard Assets\Scripts\SkillLevelArchiveScript.js" Line="91" Column="3" />
+      <File FileName="Assets\Standard Assets\Scripts\Localization.js" Line="138" Column="36" />
+      <File FileName="Assets\Standard Assets\Scripts\GUI\SkillShop.js" Line="305" Column="98" />
+      <File FileName="Assets\Standard Assets\Scripts\Skills\FireBall\FireBallScript.js" Line="44" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\Skills\Teleport\TeleportScript.js" Line="45" Column="47" />
+      <File FileName="Assets\Standard Assets\Scripts\Skills\ProtectiveWall\ProtectiveWallScript.js" Line="42" Column="47" />
+      <File FileName="Assets\Standard Assets\Scripts\HP.js" Line="2" Column="14" />
+      <File FileName="Assets\Standard Assets\Scripts\Skills\FireBall\AddForce.js" Line="8" Column="32" />
+      <File FileName="Assets\Standard Assets\Scripts\SpawnScript.js" Line="21" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\GameObjectsArchiv.js" Line="18" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

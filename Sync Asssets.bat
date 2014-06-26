@@ -1,0 +1,1 @@
+robocopy "Z:\Assets" "\\YPSYK-NB\bom\Assets" /mir /xo
